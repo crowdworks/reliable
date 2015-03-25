@@ -1,6 +1,6 @@
 # Reliable
 
-TODO: Write a gem description
+A ruby gem to reliably retry methods and blocks in a reusable, customizable, clean way.
 
 ## Installation
 
